@@ -17,5 +17,5 @@ New → Static Site → this repo, then:
 The buttons point at the two apps. Change these in `index.html` once the
 apps have their own addresses (e.g. app.sendthepros.ie and partner.sendthepros.ie):
 
-- Customer app: https://fixednow-customer-web.onrender.com
-- Partner app: https://fixednow-provider-web.onrender.com
+- Customer app: https://app.sendthepros.ie
+- Partner app: https://partner.sendthepros.ie
